@@ -1,0 +1,6 @@
+{
+  "name": "Solar Nova",
+  "description": "A luxury solar customizer, ROI estimator, and premium clean energy showcase designed for sustainable, off-grid architectural living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
